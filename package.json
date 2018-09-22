@@ -4,5 +4,9 @@
 	"main": "resources/web-socket.js",
 	"dependencies": {
 		"websocket": "^1.0.28"
-	}
+	},
+	"scripts": {
+		"start": "node resources/web-socket.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
 }
