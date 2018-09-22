@@ -14,8 +14,7 @@ const playersMap = {};
 let player = {
 	id: 0,
 	x: 0,
-	y: 0,
-	map: 
+	y: 0
 };
 
 var server = http.createServer((req, res) => {

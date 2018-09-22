@@ -1,0 +1,8 @@
+{
+	"name": "websocket-playground",
+	"version": "0.0.1",
+	"main": "resources/web-socket.js",
+	"dependencies": {
+		"websocket": "^1.0.28"
+	}
+}
